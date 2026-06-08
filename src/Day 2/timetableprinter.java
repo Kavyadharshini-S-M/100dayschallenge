@@ -1,3 +1,4 @@
+//this is day2 of coding challenge
 import java.util.*;
 
 public class timetableprinter {
